@@ -1,4 +1,4 @@
-# ts-prj-2
+# TON Transactions API
 
 To install dependencies:
 
@@ -9,7 +9,7 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run --hot index.ts
 ```
 
 This project was created using `bun init` in bun v1.1.10. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
